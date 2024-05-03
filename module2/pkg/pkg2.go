@@ -1,9 +1,9 @@
 package pkg
 
 import (
-	"github.com/thiagoelg/gomodules-playground/module1/pkg"
+	"github.com/thiagoelg/gomodules-playground/one"
 )
 
 func Test() string {
-	return pkg.Test() + "_module2"
+	return one.Test() + "_module2"
 }
