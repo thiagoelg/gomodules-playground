@@ -1,11 +1,9 @@
-package main
+package two
 
 import (
-	"fmt"
-
 	"github.com/thiagoelg/gomodules-playground/module2/two"
 )
 
-func main() {
-	fmt.Println(two.Test())
+func Test() string {
+	return two.Test() + "_module3"
 }
