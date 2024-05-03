@@ -1,0 +1,210 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "gnumake@4.4.1": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#gnumake",
+      "source": "devbox-search",
+      "version": "4.4.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1cjkrg6qi2hqvl2j9arrhda5ik3dw707-gnumake-4.4.1",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/ksik878xm0c9bxb75wfhfg2ylm4w0aav-gnumake-4.4.1-man",
+              "default": true
+            },
+            {
+              "name": "info",
+              "path": "/nix/store/j2pa8kq1rba6mkqbbbv7k5r89fqgrgrx-gnumake-4.4.1-info"
+            }
+          ],
+          "store_path": "/nix/store/1cjkrg6qi2hqvl2j9arrhda5ik3dw707-gnumake-4.4.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/779cbnya6zazh6yv8v3axky7wqd1d6xi-gnumake-4.4.1",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/8k2f18wc4ngq3y67zwqfvx5ckcbqadl5-gnumake-4.4.1-man",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/lbbdq6cvncqqd2i6yhw1jgivr69hpxav-gnumake-4.4.1-debug"
+            },
+            {
+              "name": "info",
+              "path": "/nix/store/af203hd2f4zjfnjd159h9mgdhfbs4iwm-gnumake-4.4.1-info"
+            }
+          ],
+          "store_path": "/nix/store/779cbnya6zazh6yv8v3axky7wqd1d6xi-gnumake-4.4.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/f990ckg8csfq517rczrn9nnpzcfwzd3d-gnumake-4.4.1",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/q857swx734dh6xcjvcmqfgiqrx4cnvn0-gnumake-4.4.1-man",
+              "default": true
+            },
+            {
+              "name": "info",
+              "path": "/nix/store/1iqhxfpxjadf9x3nbrbc9ha0dczrr7jx-gnumake-4.4.1-info"
+            }
+          ],
+          "store_path": "/nix/store/f990ckg8csfq517rczrn9nnpzcfwzd3d-gnumake-4.4.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/igc1cay5d5nqlj96vrq2icdxkdby1pay-gnumake-4.4.1",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/pnffk89cmqpszkhw0jawwfph8sh6gcyp-gnumake-4.4.1-man",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/js0frfqk4xrglycqh2jh87cdb29z4pp3-gnumake-4.4.1-debug"
+            },
+            {
+              "name": "info",
+              "path": "/nix/store/4s87rpcgdh4nlsy0xv802xm94x2ky757-gnumake-4.4.1-info"
+            }
+          ],
+          "store_path": "/nix/store/igc1cay5d5nqlj96vrq2icdxkdby1pay-gnumake-4.4.1"
+        }
+      }
+    },
+    "go@1.21.8": {
+      "last_modified": "2024-04-01T22:53:36-04:00",
+      "resolved": "github:NixOS/nixpkgs/080a4a27f206d07724b88da096e27ef63401a504#go_1_21",
+      "source": "devbox-search",
+      "version": "1.21.8",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4ssyvbja0wf2s0sipaxi9s6nv3lgpfc4-go-1.21.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4ssyvbja0wf2s0sipaxi9s6nv3lgpfc4-go-1.21.8"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ba2zf5bgw5hlhsd2lsd289xgv172lnp3-go-1.21.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ba2zf5bgw5hlhsd2lsd289xgv172lnp3-go-1.21.8"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vi95sal1l93gkprv7vl6lzr9f0g0ac3w-go-1.21.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vi95sal1l93gkprv7vl6lzr9f0g0ac3w-go-1.21.8"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/k7chjapvryivjixp01iil9z0z7yzg7z4-go-1.21.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/k7chjapvryivjixp01iil9z0z7yzg7z4-go-1.21.8"
+        }
+      }
+    },
+    "nodejs@18.19.1": {
+      "last_modified": "2024-04-01T22:53:36-04:00",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/080a4a27f206d07724b88da096e27ef63401a504#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.19.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wrhcjmwsffb2fj95fxfcnq8k7f3i6xbx-nodejs-18.19.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/99279y3njrascwlai7d614vdqm5mi8mr-nodejs-18.19.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/wrhcjmwsffb2fj95fxfcnq8k7f3i6xbx-nodejs-18.19.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0bsi7d89gcvijqjamf0yprydrw62zf4i-nodejs-18.19.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/wcdlnd8jl36fxv6mp9n7hg9240aglzg7-nodejs-18.19.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/0bsi7d89gcvijqjamf0yprydrw62zf4i-nodejs-18.19.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d2hhvc8z1dxscrdznmfb8x6plgnfv1cj-nodejs-18.19.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/bf6cbi9cb05x6ni9aizvys4az2k4whxk-nodejs-18.19.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/d2hhvc8z1dxscrdznmfb8x6plgnfv1cj-nodejs-18.19.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/r1f216x7zryxxqzf45j4ss1m3amh5sy0-nodejs-18.19.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/629bsljr46jxxl6790qxk7aa81qsi6dg-nodejs-18.19.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/r1f216x7zryxxqzf45j4ss1m3amh5sy0-nodejs-18.19.1"
+        }
+      }
+    }
+  }
+}
