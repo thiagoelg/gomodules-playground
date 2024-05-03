@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/thiagoelg/gomodules-playground/module1/one"
+	"github.com/thiagoelg/gomodules-playground/one"
 )
 
 func main() {
