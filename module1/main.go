@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/thiagoelg/gomodules-playground/module1/pkg"
+	"github.com/thiagoelg/gomodules-playground/module1/one"
 )
 
 func main() {
-	fmt.Println(pkg.Test())
+	fmt.Println(one.Test())
 }
