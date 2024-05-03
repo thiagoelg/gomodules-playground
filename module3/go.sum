@@ -1,2 +1,4 @@
-github.com/thiagoelg/gomodules-playground/module1 v0.1.4 h1:54ZBG1NldOA9LigKDuLQIvBwjjNhiuIakmS37uKgWCI=
-github.com/thiagoelg/gomodules-playground/module1 v0.1.4/go.mod h1:9Ei8yg5iyr/prT041E7IWqIFB2TNldsgFw0+LZu0ud8=
+github.com/thiagoelg/gomodules-playground/module1 v0.2.0 h1:b9NkPpdDV5AESgnC3Vx8ypYJD+HtBfIf/gW01WxR624=
+github.com/thiagoelg/gomodules-playground/module1 v0.2.0/go.mod h1:9Ei8yg5iyr/prT041E7IWqIFB2TNldsgFw0+LZu0ud8=
+github.com/thiagoelg/gomodules-playground/module2 v0.2.0 h1:H3NywELgt/pD68cLDkFzvxjJmBD5U/eJ2Qb2SaQS62s=
+github.com/thiagoelg/gomodules-playground/module2 v0.2.0/go.mod h1:AyRmBP1/vIgCEaqzrFcL03sMyxtb/NmVfhtXAszFGwQ=
