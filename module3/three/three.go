@@ -1,4 +1,4 @@
-package two
+package three
 
 import (
 	"github.com/thiagoelg/gomodules-playground/module2/two"

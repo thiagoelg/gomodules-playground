@@ -1,5 +1,5 @@
 package one
 
 func Test() string {
-	return "test_module1"
+	return "new_test_module1"
 }
